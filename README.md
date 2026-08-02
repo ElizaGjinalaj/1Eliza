@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Eliza
+- 👋 Hi, I’m @ Eliza Gj
 - 👀 I’m interested in learning web development...
 - 🌱 I’m currently learning ...html and css
 - 💞️ I’m looking to collaborate on creating new websites
