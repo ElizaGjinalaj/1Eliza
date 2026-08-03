@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Eliza Gj
-- 👀 I’m interested in learning web development...
-- 🌱 I’m currently learning ...html and css
-- 💞️ I’m looking to collaborate on creating new websites
+- 👀 I’m interested in learning Data science...
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on creating new projects
 - 📫 How to reach me elizagjinalaj101@hotmail.com..
 
 <!---
